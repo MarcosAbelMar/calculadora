@@ -1,20 +1,21 @@
 #num1{
-    margin-right: 10px;
-    margin-left: 10px;
+    margin:10px; 
 }
 #num2{
-    margin-right: 10px;
-    margin-left: 10px;
-}
-
-.input-group-prepend{
-    margin-top: 15px;
-    margin-left: 40px;
+    margin:10px; 
 }
 #resultado{
-    margin-top: 15px;
-    margin-right: 10px;
+    margin:10px; 
 }
-button.btn.btn-primary{
-    margin-left: 25px;
+#sumando{
+    margin:10px;
+}
+#restando{
+    margin:10px;
+}
+#multiplicando{
+    margin:10px;
+}
+#dividiendo{
+    margin:10px;
 }
